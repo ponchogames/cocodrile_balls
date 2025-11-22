@@ -91,9 +91,3 @@ python cocoball.py
 - Revisa el archivo `LICENSE` incluido en el repositorio para los términos de uso.
 - Autor / mantenedor: `ponchogames` (ver historial de commits para más información).
 
-¿Quieres que también:
-- agregue un `requirements.txt` con `pygame`?
-- ajuste el volumen por defecto a un valor razonable (`0.3`) y haga un pequeño patch en `cocoball.py`?
-- o genere un `run.sh` que active un entorno virtual y ejecute el juego en un solo paso?
-
-¡Listo! Diviértete jugando y dime si quieres que genere assets de ejemplo, un `requirements.txt` o haga cambios directos en el código.
